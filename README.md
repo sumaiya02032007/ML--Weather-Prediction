@@ -1,3 +1,4 @@
+Implementation of Random Forest Algorithm for Weather Prediction
 ## AIM:
 To write a program to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data using Random Forest Algorithm.
 
@@ -138,3 +139,4 @@ for target in targets:
 <img width="922" height="388" alt="591627667-bc440851-4d90-44cd-a748-f21be675e5aa" src="https://github.com/user-attachments/assets/e88d6023-01d8-4357-9f63-66ae30e54e1a" />
 
 ## Result:
+The Random Forest model successfully predicted temperature, PM2.5, and solar radiation with good accuracy, and the graphs showed close matching between actual and predicted values.
